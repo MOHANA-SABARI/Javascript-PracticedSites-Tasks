@@ -1,0 +1,12 @@
+#img{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+}
+#imageContainer img{
+    width: 600px;
+    height: 500px;
+    margin: 20%;
+    margin-top: 10%;
+    border: 2px solid black;
+}
