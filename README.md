@@ -1,2 +1,2 @@
-# Javascript-Randomimagest
-Random Images
+# Javascript-tasks
+Performed tasks
